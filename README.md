@@ -1,8 +1,10 @@
-# 20min-XD: A Comparable Corpus of Swiss News Articles
+# _20min-XD_: A Comparable Corpus of Swiss News Articles
 
 This repository contains the data and code for the scraping and postprocessing of the dataset as well as the experiments and analyses described in the paper "20min-XD: A Comparable Corpus of Swiss News Articles" (TODO: add link).
 
-In addition the data is available on [Hugging Face](https://huggingface.co/datasets/ZurichNLP/20min-XD), both in a document and sentence aligned version.
+_20min-XD_ (**20 Min**uten **cross**-lingual **d**ocument-level) is a comparable corpus of Swiss news articles in German and French, collected from the online editions of 20 Minuten and 20 minutes between 2015 and 2024. The dataset consists of 15,000 semantically aligned German and French article pairs. Unlike parallel corpora, _20min-XD_ captures a broad spectrum of cross-lingual similarity, ranging from near-translations to related articles covering the same event. This dataset is intended for non-commercial research use only – please refer to the accompanying license/copyright notice for details.
+
+In addition, the data is available on [Hugging Face](https://huggingface.co/datasets/ZurichNLP/20min-XD), both in a document and sentence aligned version.
 
 ## Usage
 
