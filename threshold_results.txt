@@ -1,0 +1,104 @@
+
+Align type: above_threshold
+Model: paraphrase-multilingual-mpnet-base-v2
+Threshold: 61.5, F1: 0.5405405405405405
+
+Align type: best_fr
+Model: paraphrase-multilingual-mpnet-base-v2
+Threshold: 46.0, F1: 0.5581395348837208
+
+Align type: best_de
+Model: paraphrase-multilingual-mpnet-base-v2
+Threshold: 47.0, F1: 0.5777777777777778
+
+Align type: best_both
+Model: paraphrase-multilingual-mpnet-base-v2
+Threshold: 61.5, F1: 0.5405405405405405
+
+Align type: best
+Model: paraphrase-multilingual-mpnet-base-v2
+Threshold: 46.0, F1: 0.6470588235294117
+
+Align type: best_fr
+Model: sentence-swissbert
+Threshold: 74.5, F1: 0.6250000000000001
+
+Align type: best_de
+Model: sentence-swissbert
+Threshold: 73.0, F1: 0.6111111111111112
+
+Align type: best_both
+Model: sentence-swissbert
+Threshold: 74.5, F1: 0.6285714285714286
+
+Align type: best
+Model: sentence-swissbert
+Threshold: 69.5, F1: 0.6250000000000001
+
+Align type: best_fr
+Model: LaBSE
+Threshold: 50.5, F1: 0.4615384615384615
+
+Align type: best_de
+Model: LaBSE
+Threshold: 50.5, F1: 0.6
+
+Align type: best_both
+Model: LaBSE
+Threshold: 50.5, F1: 0.5652173913043478
+
+Align type: best
+Model: LaBSE
+Threshold: 50.5, F1: 0.48484848484848486
+
+Align type: best_fr
+Model: gte-multilingual-base
+Threshold: 56.0, F1: 0.5853658536585367
+
+Align type: best_de
+Model: gte-multilingual-base
+Threshold: 60.0, F1: 0.6
+
+Align type: best_both
+Model: gte-multilingual-base
+Threshold: 65.0, F1: 0.5555555555555556
+
+Align type: best
+Model: gte-multilingual-base
+Threshold: 65.0, F1: 0.6206896551724138
+
+Align type: best_fr
+Model: gte-modernbert-base
+Threshold: 63.0, F1: 0.5
+
+Align type: best_de
+Model: gte-modernbert-base
+Threshold: 66.0, F1: 0.5405405405405405
+
+Align type: best_both
+Model: gte-modernbert-base
+Threshold: 66.0, F1: 0.5
+
+Align type: best
+Model: gte-modernbert-base
+Threshold: 66.0, F1: 0.5333333333333333
+
+Align type: above_threshold
+Model: gte-modernbert-base
+Threshold: 66.0, F1: 0.4545454545454545
+
+Align type: above_threshold
+Model: gte-multilingual-base
+Threshold: 65.0, F1: 0.5555555555555556
+
+Align type: above_threshold
+Model: LaBSE
+Threshold: 66.0, F1: 0.5333333333333333
+
+Align type: above_threshold
+Model: sentence-swissbert
+Threshold: 74.5, F1: 0.6285714285714286
+
+Align type: above_threshold
+Model: gte-modernbert-base
+Threshold: 66.0, F1: 0.4545454545454545
