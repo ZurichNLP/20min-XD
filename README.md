@@ -1,6 +1,6 @@
 # _20min-XD_: A Comparable Corpus of Swiss News Articles
 
-This repository contains the data and code for the scraping and postprocessing of the dataset as well as the experiments and analyses described in the paper "20min-XD: A Comparable Corpus of Swiss News Articles" (TODO: add link).
+This repository contains the data and code for the scraping and postprocessing of the dataset as well as the experiments and analyses described in the paper ["20min-XD: A Comparable Corpus of Swiss News Articles"](https://arxiv.org/abs/2504.21677v1).
 
 _20min-XD_ (**20 Min**uten **cross**-lingual **d**ocument-level) is a comparable corpus of Swiss news articles in German and French, collected from the online editions of 20 Minuten and 20 minutes between 2015 and 2024. The dataset consists of 15,000 semantically aligned German and French article pairs. Unlike parallel corpora, _20min-XD_ captures a broad spectrum of cross-lingual similarity, ranging from near-translations to related articles covering the same event. This dataset is intended for non-commercial research use only – please refer to the accompanying license/copyright notice for details.
 
@@ -151,7 +151,15 @@ The resulting dataset is released with the following copyright notice:
 If you use the dataset, please cite the following paper:
 
 ```
-TODO: add citation
+@misc{wastl202520minxdcomparablecorpusswiss,
+      title={20min-XD: A Comparable Corpus of Swiss News Articles}, 
+      author={Michelle Wastl and Jannis Vamvas and Selena Calleri and Rico Sennrich},
+      year={2025},
+      eprint={2504.21677},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.21677}, 
+}
 ```
 
 
